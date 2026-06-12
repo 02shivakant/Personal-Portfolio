@@ -9,7 +9,7 @@ const Hero = () => {
             <div className="hero-tag">✦ Available for Internships & JOBS</div>
             <h1 className="hero-name">SHIVAKANT PANDEY</h1>
             <h2 className="hero-role">
-              Software <span>Developer()</span>
+              Software <span>Developer</span>
             </h2>
             <p className="hero-desc">
               Final year B.Tech student passionate about building cool things
